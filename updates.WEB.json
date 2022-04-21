@@ -1,6 +1,18 @@
 {
   "MFDs": [
     {
+      "Version": "99.99",
+      "ReleaseDate": "2021-06-08T00:00:00Z",
+      "File": "http://192.168.0.25:8000/Vega-0.1.0-1.0.192.develop-Standard-1.upd",
+      "Size": 136130560,
+      "sha1": "92bb028bc928b10d070d559764b205beeb111293",
+      "_Comment": "B&G Triton Edge CPU",
+      "AppVersion": "99.99.999",
+      "Models": [
+        "TritonEdge"
+      ]
+    },
+    {
       "Version": "22.1",
       "ReleaseDate": "2022-01-12T00:00:00Z",
       "File": "http://s3.amazonaws.com/navicoupdate/22.1/ActiveTarget-22.1-65.1.14-Standard-1.riw",
