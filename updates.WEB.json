@@ -7,7 +7,7 @@
       "Size": 136130560,
       "sha1": "92bb028bc928b10d070d559764b205beeb111293",
       "_Comment": "B&G Triton Edge CPU",
-      "AppVersion": "1.112",
+      "AppVersion": "1.0.112",
       "Models": [
         "TritonEdge"
       ]
